@@ -1,2 +1,3 @@
 httpcore
 httpx
+SyncHTTPTransport
