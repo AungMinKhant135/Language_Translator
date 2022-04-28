@@ -1,3 +1,4 @@
 httpcore
 httpx
 SyncHTTPTransport
+pip version 22.0.4
